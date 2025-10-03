@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1818818923f9e6cc5956.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "komgraf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "komgraf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-komgraf-Debug-0e1a5e39c0e3ea69fecf.json",
+					"name" : "komgraf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "komgraf_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-komgraf_autogen-Debug-e8db00acb578bbd8d229.json",
+					"name" : "komgraf_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "komgraf_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-komgraf_autogen_timestamp_deps-Debug-7bd36a25feea5fec99d0.json",
+					"name" : "komgraf_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hafutofu/komgraf/build/Desktop_Qt_6_9_2-Debug",
+		"source" : "/home/hafutofu/komgraf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
